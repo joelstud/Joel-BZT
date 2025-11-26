@@ -1,0 +1,2 @@
+C:\temp\Joel-BZT\Prüfung Blazor\Prüfung Blazor\Prüfung Blazor\Prüfung Blazor.Client\obj\Debug\net10.0\staticwebassets.build.json
+C:\temp\Joel-BZT\Prüfung Blazor\Prüfung Blazor\Prüfung Blazor\Prüfung Blazor.Client\obj\Debug\net10.0\staticwebassets.build.json

@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+C:\temp\Joel-BZT\Prüfung Blazor\Prüfung Blazor\Prüfung Blazor\Prüfung Blazor.Client\wwwroot\appsettings.Development.json
+C:\temp\Joel-BZT\Prüfung Blazor\Prüfung Blazor\Prüfung Blazor\Prüfung Blazor.Client\wwwroot\appsettings.json
