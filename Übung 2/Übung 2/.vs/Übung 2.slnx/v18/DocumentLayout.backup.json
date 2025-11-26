@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\Joel-BZT\\\u00DCbung 2\\\u00DCbung 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D64274A-8509-489E-BB7D-A4AB22262A27}|\u00DCbung 2\\\u00DCbung 2\\\u00DCbung 2.csproj|c:\\temp\\joel-bzt\\\u00FCbung 2\\\u00FCbung 2\\\u00FCbung 2\\\u00FCbung 2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D64274A-8509-489E-BB7D-A4AB22262A27}|\u00DCbung 2\\\u00DCbung 2\\\u00DCbung 2.csproj|solutionrelative:\u00FCbung 2\\\u00FCbung 2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D64274A-8509-489E-BB7D-A4AB22262A27}|\u00DCbung 2\\\u00DCbung 2\\\u00DCbung 2.csproj|c:\\temp\\joel-bzt\\\u00FCbung 2\\\u00FCbung 2\\\u00FCbung 2\\\u00FCbung 2\\components\\pages\\joel_defayes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D64274A-8509-489E-BB7D-A4AB22262A27}|\u00DCbung 2\\\u00DCbung 2\\\u00DCbung 2.csproj|solutionrelative:\u00FCbung 2\\\u00FCbung 2\\components\\pages\\joel_defayes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\temp\\Joel-BZT\\\u00DCbung 2\\\u00DCbung 2\\\u00DCbung 2\\\u00DCbung 2\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "\u00DCbung 2\\\u00DCbung 2\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\temp\\Joel-BZT\\\u00DCbung 2\\\u00DCbung 2\\\u00DCbung 2\\\u00DCbung 2\\Components\\Layout\\NavMenu.razor*",
+              "RelativeToolTip": "\u00DCbung 2\\\u00DCbung 2\\Components\\Layout\\NavMenu.razor*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T15:04:37.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Joel_Defayes.razor",
+              "DocumentMoniker": "C:\\temp\\Joel-BZT\\\u00DCbung 2\\\u00DCbung 2\\\u00DCbung 2\\\u00DCbung 2\\Components\\Pages\\Joel_Defayes.razor",
+              "RelativeDocumentMoniker": "\u00DCbung 2\\\u00DCbung 2\\Components\\Pages\\Joel_Defayes.razor",
+              "ToolTip": "C:\\temp\\Joel-BZT\\\u00DCbung 2\\\u00DCbung 2\\\u00DCbung 2\\\u00DCbung 2\\Components\\Pages\\Joel_Defayes.razor",
+              "RelativeToolTip": "\u00DCbung 2\\\u00DCbung 2\\Components\\Pages\\Joel_Defayes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T15:04:30.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
