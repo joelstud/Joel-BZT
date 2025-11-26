@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\Joel-BZT\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE0B117-A5D9-4980-8C3A-B743A2A1A16A}|Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor.csproj|c:\\temp\\joel-bzt\\pr\u00FCfung blazor\\pr\u00FCfung blazor\\pr\u00FCfung blazor\\pr\u00FCfung blazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFE0B117-A5D9-4980-8C3A-B743A2A1A16A}|Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor.csproj|solutionrelative:pr\u00FCfung blazor\\pr\u00FCfung blazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE0B117-A5D9-4980-8C3A-B743A2A1A16A}|Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor.csproj|c:\\temp\\joel-bzt\\pr\u00FCfung blazor\\pr\u00FCfung blazor\\pr\u00FCfung blazor\\pr\u00FCfung blazor\\components\\pages\\joel_defayes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFE0B117-A5D9-4980-8C3A-B743A2A1A16A}|Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor.csproj|solutionrelative:pr\u00FCfung blazor\\pr\u00FCfung blazor\\components\\pages\\joel_defayes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\temp\\Joel-BZT\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\temp\\Joel-BZT\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Components\\Layout\\NavMenu.razor*",
+              "RelativeToolTip": "Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Components\\Layout\\NavMenu.razor*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswB4AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T14:54:39.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Joel_Defayes.razor",
+              "DocumentMoniker": "C:\\temp\\Joel-BZT\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Components\\Pages\\Joel_Defayes.razor",
+              "RelativeDocumentMoniker": "Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Components\\Pages\\Joel_Defayes.razor",
+              "ToolTip": "C:\\temp\\Joel-BZT\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Components\\Pages\\Joel_Defayes.razor",
+              "RelativeToolTip": "Pr\u00FCfung Blazor\\Pr\u00FCfung Blazor\\Components\\Pages\\Joel_Defayes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T14:54:35.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
